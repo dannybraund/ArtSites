@@ -1,0 +1,15 @@
+img{
+	width: 30%;
+	float: left;
+	margin: 1.50%;
+	border: 1px solid black;
+}
+p{
+	font-family: 'Merriweather', serif;
+	margin-left: 1.50%;
+	font-size: 50px;
+	text-transform: uppercase;
+	margin-bottom: 0%;
+	border-bottom: 2px solid #9f6060; 
+	width: 30%;
+}
